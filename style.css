@@ -1,0 +1,156 @@
+/* CSS styling for the website */
+/* Header */
+body{
+    padding: 30px;
+    height: 100%;
+}
+
+header {
+    background-color: #20B2AA;
+    padding: 10px;
+    height: 90%;
+  }
+  /* Navigation */
+  nav {
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Main Content */
+  main {
+    background-color:#B0E0E6;
+    padding: 40px;
+    margin-bottom: 30px;
+
+  }
+  
+  section {
+    background-color:#20B2AA;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 360px;
+    padding: 10px;
+  }
+  .textIG{
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 100px;
+    margin-left: -230px;
+    margin-right: 100px;
+  }
+
+  .IG2{
+    margin-top: -30px;
+  }
+
+  .git2 img{
+    margin-top: 30px;
+    margin-left: 90px;
+    width: 20px;
+  }
+  .git{
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-left: -60px;
+  }
+
+  aside{
+    background-color:#40E0D0;
+    padding: 10px;
+    float: right;
+    flex:1;
+    margin-bottom: 10px;
+    height: 1014px;
+  }
+  .inAside{
+    background-color:#AFEEEE;
+    padding: 10px;
+    float: right;
+    flex:1;
+    margin-bottom: 10px;
+    height: 993px;
+  }
+
+  .Information{
+    background-color:#fff;
+    padding: 2px;
+    width: 100%;
+  }
+  article {
+    background-color: #AFEEEE;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .htmlpt{
+    display: flex;
+    align-items: center;
+  }
+  .htmlpt img{
+    width:250px ;
+    margin-right: 5px;
+  }
+  .htmlpt2{
+    display: flex;
+    align-items: center;
+  }
+  .htmlpt2 img{
+    width:250px;
+    margin-right: 5px;
+  }
+  .htmlpt3{
+    display: flex;
+    align-items: center;
+    align-items:normal;
+    
+  }
+  .htmlpt3 img{
+    display: flex;
+    width:250px;
+    margin-right: 5px;
+    margin-bottom: -30px;
+  }
+
+  /* Footer */
+  footer {
+    background-color: #20B2AA;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  .Follow2{
+    margin-right: 10px;
+  }
+  aside img{
+    width: 150px;
+    display: flex;
+  }
+  .Follow{
+    margin-right: 10px;
+  }
+  footer img{
+    width: 150px;
+    display: flex;
+  }
